@@ -3,7 +3,7 @@
     <el-form ref="loginForm" :model="loginForm" :rules="loginRules" class="login-form" autocomplete="on" label-position="left">
 
       <div class="title-container">
-        <img src="https://kosa4evka.org/bitcoin/img/LOGO.png" class="has-logo" width="100" height="100" alt="Quantum">
+        <img src="https://kosa4evka.org/bitcoin/img/LOGO.png" class="title" width="100" height="100" alt="Quantum">
         <h3 class="title">Hello World</h3>
       </div>
 
